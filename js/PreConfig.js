@@ -11,3 +11,13 @@ window.DRAWIO_LIGHTBOX_URL = null; // Replace with your lightbox URL, eg. https:
 window.DRAW_MATH_URL = 'math';
 window.DRAWIO_CONFIG = null; // Replace with your custom draw.io configurations. For more details, https://www.diagrams.net/doc/faq/configure-diagram-editor
 urlParams['sync'] = 'manual';
+
+urlParams['lang'] = 'zh'; 
+urlParams['browser'] = 1;
+urlParams['gapi'] = 1;
+urlParams['db'] = 0;
+urlParams['od'] = 1; 
+urlParams['tr'] = 0;
+urlParams['gh'] =1; 
+urlParams['gl'] =1;
+urlParams['mode'] = 'browser';
