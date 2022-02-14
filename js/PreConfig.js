@@ -17,6 +17,7 @@ urlParams['gapi'] = 1;
 urlParams['db'] = 0;
 urlParams['od'] = 1; 
 urlParams['tr'] = 0;
+urlParams['gd'] =0;
 urlParams['gh'] =1; 
 urlParams['gl'] =1;
 urlParams['mode'] = 'browser';
